@@ -1,6 +1,6 @@
 # Welcome to Bootstrap Exercises!!
 
-My name is [Alejandro Sanchez](https://twitter.com/alesanchezr). I'm really excited to have you here!! 🎉 😂 Learning to code is hard, you probably will need coaching! DM me on Twitter if you have any question.
+My name is [Elon Musk](https://twitter.com/elonmusk). I'm really excited to have you here!! 🎉 😂 Learning to code is hard, you probably will need coaching! DM me on Twitter if you have any question.
 
 During this course you will be learning the following concepts:
 
